@@ -1,0 +1,103 @@
+Xft.dpi: 96
+
+Xcursor.theme: pixelfun3
+Xcursor.size: 16
+
+    ! ONEDARK COLORS
+    !! backgrounds
+    !*.background0: #1a212e
+    !*.background1: #21283b
+    !*.background2: #283347
+    !*.background3: #2a324a
+    !*.background4: #141b24
+    !*.background5: #282c34
+    !*.background6: #31353f
+    !*.background7: #393f4a
+    !*.background8: #3b3f4c
+    !*.background9: #21252b
+    !
+    !! special
+    !*.background: #0c0e15
+    !*.foreground: #abb2bf
+    !
+    !! black
+    !*.color0: #0c0e15
+    !*.color8: #17191e
+    !
+    !! red
+    !*.color1: #CC241D
+    !*.color9: #e86671
+    !
+    !! green
+    !*.color2: #8bcd5b
+    !*.color10: #98c379
+    !
+    !! yellow
+    !*.color3: #efbd5d
+    !*.color11: #ebd09c
+    !
+    !! blue
+    !*.color4: #54b0fd
+    !*.color12: #61afef
+    !
+    !! magenta
+    !*.color5: #c75ae8
+    !*.color13: #c678dd
+    !
+    !! cyan
+    !*.color6: #34bfd0
+    !*.color14: #56b6c2
+    !
+    !! white
+    !*.color7: #93a4c3
+    !*.color15: #abb2bf
+
+! GRUVBOX COLORS
+! backgrounds
+*.background0: #3C3836
+*.background1: #504945
+*.background2: #665C54
+*.background3: #7C6F64
+*.background4: #1D2021
+
+*.background5: #A89984
+*.background6: #BDAE93
+*.background7: #D5C4A1
+*.background8: #EBDBB2
+*.background9: #32302F
+
+! special
+*.background: #282828
+*.foreground: #EBDBB2
+
+! black
+*.color0: #282828
+*.color8: #928374
+
+! red
+*.color1: #CC241D
+*.color9: #FB4934
+
+! green
+*.color2: #98971A
+*.color10: #B8BB26
+
+! yellow
+*.color3: #D79921
+*.color11: #FABD2F
+
+! blue
+*.color4: #458588
+*.color12: #83A598
+
+! magenta
+*.color5: #B16286
+*.color13: #D3869B
+
+! cyan
+*.color6: #689D6A
+*.color14: #8EC07C
+
+! white
+*.color7: #A89984
+*.color15: #EBDBB2
